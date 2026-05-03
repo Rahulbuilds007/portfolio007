@@ -116,7 +116,7 @@ const Projects = () => {
     { title: "Facebook Ad Dashboard", type: "Power BI", link: "https://github.com/Rahulbuilds007/facebook-ads-performance-dashboard" },
     { title: "Sales Data Analysis", type: "Excel", link: "https://github.com/Rahulbuilds007/Sales-Analytics-Excel-Project" },
     { title: "Social Media Analysis", type: "SQL", link: "https://github.com/Rahulbuilds007/social-media-sql-analysis" },
-    { title: "Portfolio Website", type: "Web Dev", link: "https://github.com/rahul/portfolio" },
+    { title: "Portfolio Website", type: "Web Dev", link: "https://github.com/Rahulbuilds007/portfolio007" },
   ];
   return (
     <>
