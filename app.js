@@ -55,7 +55,7 @@ const About = () => (
           I combine analytical thinking with modern tools — from SQL and Python to Power BI and React — to turn
           raw numbers into business value people can actually act on.
         </p>
-        <a href="Rahul Chawla Data Analyst Resume.pdf" download className="dl-btn">
+        <a href="Rahul_Chawla_Resume.pdf" download className="dl-btn">
           Download Resume ↗
         </a>
       </div>
